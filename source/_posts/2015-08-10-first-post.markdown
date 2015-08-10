@@ -7,4 +7,4 @@ categories:
 ---
 
 #Markdown Go!!
-Whoop Woot Woot
+Whoop Woot Woot!
