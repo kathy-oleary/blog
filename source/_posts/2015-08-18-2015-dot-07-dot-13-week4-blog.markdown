@@ -1,0 +1,19 @@
+---
+layout: post
+title: "2015.07.13-week4-blog"
+date: 2015-07-13 10:48:39 -0500
+comments: true
+categories: 
+---
+
+Week 4 Blog Post
+
+Ok,
+
+Week 4 is almost up.  We go to Madison UX tomorrow and Saturday.  Spent a lot of the week working on the workbook.  This weeks workbook was a LOT harder than the first one. Covers a LOT of territory.  Functions and control structures.  I think learning the terminology is going to be the more difficult thing because I always had it in my head that these were functions and they're control structures.  And its things like that where its breaking old habits that are stuck in my head the wrong way that is going to be the harder thing to do.
+
+Learning new stuff is easier because you're just straight learning it and learning it right.  Retraining yourself to think different has always been more difficult.  But it can be done and it needs to be or I'll be calling stuff the wrong thing and that will mess up too many people.  
+
+The functions like alert and prompt and confirm are simple as pie.  The control structures are all the if, for, else if and do/while loops and loop de hoops (as Sandra calls them).....those can get really complex.  But its fun to build them and then try to see where and how I can condense them down and where I wouldn't want to.  I'm getting the hang of them and doing most of the coding correctly.  I tend to get hung up on one small part of stuff that I code and that messes up the whole thing.  Like I did one as a string of if commands, but it needed to be else if's and they needed to be connected or it gave the wrong results.  So simply changing it from if's to else ifs and then connecting them made a huge difference on my results.
+
+I'm putting together a bunch of "cheat sheets" that I call the D&D's, Down & Dirty's...I'm outlining what each of the chapters are in simpler terms.  I'm doing the functions and control structures for Chap 2 right now.  I think its going to help Sandra and some other people out big time in how to figure these things out.  We'll have to see how it goes.  At least the 15 yrs of branch and client training I did at Paychex isn't going to waste.  I'm able to use that to help train here in class now.  

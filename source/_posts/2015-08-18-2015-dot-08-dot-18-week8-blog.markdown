@@ -1,0 +1,7 @@
+---
+layout: post
+title: "2015.08.18-week8-blog"
+date: 2015-08-18 10:45:00 -0500
+comments: true
+categories: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "2015.06.26-week2-blog"
+date: 2015-06-26 10:47:53 -0500
+comments: true
+categories: 
+---
+
+Week 2
+Ok, learning more.  A lot of the learning right now is straight just learning terminology and we're doing some work in seeing it in action, but very little tells us how this would affect what we're doing or why we would use these features.  So I know how to concantenate but not how it would affect any programming or why I would need it.  Will be nice to see this finally in action and put the pieces together so its firm in my mind about the W's - who what when where and why to use these things.
+Had a spill earlier this week and got a concussion, that really messed my head up for the one day.  My eye kept unfocusing and I was getting sick most of the day.  Very frustrating but I lasted the whole day.  We finally get to take our computers home now.  That will help a LOT!!!!  I have a lot of free time where I could be working on some of this stuff so will be nice to be able to use my time a little more wisely.

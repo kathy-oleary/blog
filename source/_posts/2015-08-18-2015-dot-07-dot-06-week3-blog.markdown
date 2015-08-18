@@ -1,0 +1,10 @@
+---
+layout: post
+title: "2015.07.06-week3-blog"
+date: 2015-07-06 10:48:21 -0500
+comments: true
+categories: 
+---
+
+Week 3 
+Bit of a crazy week.  Have a lot of people who are hopping on board with me on showing them the workbook stuff.  I do it and figure it out and then I go through it with them and explain it in a variety of ways to get it across to them what they're looking for and how it works.  Am finding that some of us code stuff differently and while it still works...there are "more accurate" ways of coding.  I am trying to make sure that I learn the most accurate and most time saving way to code.  As opposed to doing whatever will get it done.
